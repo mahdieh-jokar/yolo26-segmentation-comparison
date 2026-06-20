@@ -83,7 +83,7 @@ A simple structure for the repository can look like this:
 ```bash
 yolo26-segmentation-comparison/
 │
-├── seg_vs_sem_compare.py
+├── seg_vs_sem_compare.py 
 ├── README.md
 │
 ├── assets/
