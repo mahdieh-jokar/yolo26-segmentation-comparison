@@ -12,9 +12,8 @@ Two comparison tracks were prepared in this project:
 
 ## 🎥 Visual Results
 
-This comparison was performed using the medium (M) variant of each model.
-
 ### Instance vs Semantic
+This comparison was performed using the medium (M) variant of each model.
 
 #### Video Comparison
 
